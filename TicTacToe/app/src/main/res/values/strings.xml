@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">TicTacToe</string>
+    <string name="startScreen">Tic Tac Toe</string>
+    <string name="game_name">balance the force</string>
+    <string name="startScreenButton">Start One Player Game</string>
+    <string name="startScreenButton2">Start Two Player Game</string>
+
+    <string name="playerOneIcon">"&#xf1d1;"</string>
+    <string name="playerTwoIcon">"&#xf1d0;"</string>
+    <string name="game_over">game over</string>
+</resources>

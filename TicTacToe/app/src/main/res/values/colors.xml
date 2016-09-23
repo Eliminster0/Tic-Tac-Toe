@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="squareOne">#26ed22</color>
+    <color name="squareTwo">#fc7e00</color>
+    <color name="gameOver">#FFE81F</color>
+
+    <color name="titletext">#FFE81F</color>
+
+    <color name="black_overlay">#66000000</color>
+</resources>
