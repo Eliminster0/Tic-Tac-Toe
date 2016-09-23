@@ -22,6 +22,9 @@ Tic Tac Toe is an awful game, and giving it a Star Wars theme makes it mildy bet
 
 ![game_over2](https://cloud.githubusercontent.com/assets/20728117/18770897/997a1046-80ff-11e6-8813-1ce484ca8b20.png)
 
+Compiling and Running the Game
+---
+You can either clone the project from GitHub and open it in your preferred Android IDE, or you can download/install the [APK][4] to your device.
 
 Summary
 ---
@@ -34,3 +37,4 @@ This game was created in [Android Studio][1]. Visual assets were created from th
 [1]: https://developer.android.com/studio/index.html
 [2]: http://fontawesome.io/
 [3]: http://www.getpaint.net/index.html
+[4]: https://github.com/Eliminster0/Tic-Tac-Toe/blob/master/TicTacToe/app/app-release.apk
