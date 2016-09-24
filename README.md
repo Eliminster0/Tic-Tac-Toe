@@ -7,7 +7,7 @@ The completely unbalanced classic game Tic-Tac-Toe brought to Android.
 Game Play
 ---
 
-Player take turns placing their icons in the sqaures.  
+Players take turns placing their icons in the sqaures.  
 The player who succeeds in placing three of their icons in a horizontal, vertical, or diagonal row wins.  
 
 ![game_play](https://cloud.githubusercontent.com/assets/20728117/18770895/96bb4dfc-80ff-11e6-915b-3bcb2985d323.png)
